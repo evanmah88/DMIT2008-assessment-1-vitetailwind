@@ -6,7 +6,7 @@
   "armor": 20,
   "magicResistance": 30,
   "health": 526,
-  "image": "/images/Ahri.jpg"
+  "image": "https://cdn.discordapp.com/attachments/997325634349043785/1158258145089552414/Ahri.jpg?ex=651b9775&is=651a45f5&hm=bda240c37a1a0059e9402f55e51166fbd14542e4db909fea83b546b278ab3859&"
 },
 {
   "name": "Darius",
@@ -16,7 +16,7 @@
   "armor": 40,
   "magicResistance": 32,
   "health": 582,
-  "image": "/images/Darius_0.jpg"
+  "image": "https://cdn.discordapp.com/attachments/997325634349043785/1158258188353802270/Darius_0.jpg?ex=651b977f&is=651a45ff&hm=1ab5e3a0165894e32d8235165b77e377441e9747283678dd48f899bb2e5d7555&"
 },
 {
   "name": "Riven",
@@ -26,7 +26,7 @@
   "armor": 33,
   "magicResistance": 32,
   "health": 630,
-  "image": "/images/Riven_0.jpg"
+  "image": "https://cdn.discordapp.com/attachments/997325634349043785/1158258320830910525/Riven_0.jpg?ex=651b979f&is=651a461f&hm=9582f7f9f4c5a4565dd4bc547d3530545ac00b2efb120111ef9e6f026882e23c&"
 },
 {
   "name": "Garen",
@@ -36,7 +36,7 @@
   "armor": 36,
   "magicResistance": 32,
   "health": 620,
-  "image": "/images/Garen_0.jpg"
+  "image": "https://cdn.discordapp.com/attachments/997325634349043785/1158258188655808612/Garen_0.jpg?ex=651b977f&is=651a45ff&hm=a8d6e6960acef3a0c59593d76b07e384041e42e9fa69acc983e868152446c685&"
 },
 {
   "name": "Jinx",
@@ -46,7 +46,7 @@
   "armor": 22,
   "magicResistance": 30,
   "health": 550,
-  "image": "/images/Jinx_0.jpg"
+  "image": "https://cdn.discordapp.com/attachments/997325634349043785/1158258243055910942/Jinx_0.jpg?ex=651b978c&is=651a460c&hm=c13fecf0c4536321ad7505e60261624ae603ec73c9bd470cec65a0b7230f1cce&"
 },
 {
   "name": "Leona",
@@ -56,7 +56,7 @@
   "armor": 47,
   "magicResistance": 32,
   "health": 576,
-  "image": "/images/Leona_0.jpg"
+  "image": "https://cdn.discordapp.com/attachments/997325634349043785/1158258256880357376/Leona_0.jpg?ex=651b978f&is=651a460f&hm=5d2988a8d354bac16f19efe46e4e6705edadf410cddb70ada1f28a065e6355a9&"
 },
 {
   "name": "Lux",
@@ -66,7 +66,7 @@
   "armor": 18,
   "magicResistance": 30,
   "health": 490,
-  "image": "/images/Lux_0.jpg"
+  "image": "https://cdn.discordapp.com/attachments/997325634349043785/1158258268079128577/Lux_0.jpg?ex=651b9792&is=651a4612&hm=c2644aba33ab8d0b781589c19b47d624b19816a0a7a8459f8f101c691c1997a0&"
 },
 {
   "name": "Malphite",
@@ -76,7 +76,7 @@
   "armor": 40,
   "magicResistance": 32,
   "health": 574,
-  "image": "/images/Malphite_0.jpg"
+  "image": "https://cdn.discordapp.com/attachments/997325634349043785/1158258286613774366/Malphite_0.jpg?ex=651b9796&is=651a4616&hm=adf724434d500568245aea2a4922946cc9411c1aede5cfd456804767d480b9e0&"
 },
 {
   "name": "Orianna",
@@ -86,7 +86,7 @@
   "armor": 17,
   "magicResistance": 30,
   "health": 530,
-  "image": "/images/Orianna_0.jpg"
+  "image": "https://cdn.discordapp.com/attachments/997325634349043785/1158258300014575626/Orianna_0.jpg?ex=651b979a&is=651a461a&hm=d2bd7f2500aaa4fcbb9f3f39f62f52efd49744010c4a84ebe267cbfe2ac12168&"
 },
 {
   "name": "Pyke",
@@ -96,7 +96,7 @@
   "armor": 45,
   "magicResistance": 30,
   "health": 600,
-  "image": "/images/Pyke_0.jpg"
+  "image": "https://cdn.discordapp.com/attachments/997325634349043785/1158258308432535612/Pyke_0.jpg?ex=651b979c&is=651a461c&hm=030964bbb806d3f7b1a7a7df7c2df2d152bf1bba6dfabc46e7e152b3b0735f04&"
 },
 {
   "name": "Sona",
@@ -106,7 +106,7 @@
   "armor": 28,
   "magicResistance": 30,
   "health": 482,
-  "image": "/images/Sona_0.jpg"
+  "image": "https://cdn.discordapp.com/attachments/997325634349043785/1158258332507832330/Sona_0.jpg?ex=651b97a1&is=651a4621&hm=7847c0e9d6724d2a35738af6dd64448829265fdc192f9780bcd4fa2e5ade877e&"
 },
 {
   "name": "Yasuo",
@@ -116,5 +116,5 @@
   "armor": 30,
   "magicResistance": 32,
   "health": 523,
-  "image": "/images/Yasuo_0.jpg"
+  "image": "https://cdn.discordapp.com/attachments/997325634349043785/1158258341190041610/Yasuo_0.jpg?ex=651b97a3&is=651a4623&hm=a21a383bc84b6353cc3b51fdcd749e43f8c3babefd337d013c794da4839c6edc&"
 }]
